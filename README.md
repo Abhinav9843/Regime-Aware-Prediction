@@ -1,7 +1,8 @@
-Please follow the "readme.txt" file for Data set download.
+Please follow the "readme.txt" file for Data set download. The Folder replication package conatains all the necessary data and python code which replicate the whole paper.
 
 
-Note on Case II, Case III, and TOPSIS
+**Note on Case II, Case III, and TOPSIS**
+
 Case II and Case III are distinct Section 6 formulations: Case II uses uncertainty-aware arbitrage, whereas Case III additionally includes load and solar grid-support terms. In some market-year cases, the Case III charging adjustment does not change the optimal battery dispatch, so Case II and Case III can produce identical or nearly identical values. This is expected from the linear-programming formulation and does not indicate an implementation error.
 
 
