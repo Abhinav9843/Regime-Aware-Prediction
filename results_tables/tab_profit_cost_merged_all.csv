@@ -1,0 +1,29 @@
+Case,Model,Germany-2021,Germany-2022,Germany-2023,France-2023,Norway-2023
+Case-I Mean Profit (€/Day),cnp,0.457319,1.11009,0.643196,0.49349,0.143748
+Case-I Mean Profit (€/Day),dnn,0.461626,1.086719,0.622715,0.483181,0.048307
+Case-I Mean Profit (€/Day),lear,0.465495,1.125026,0.626746,0.497675,0.183246
+Case-I Mean Profit (€/Day),blstm,0.385737,1.00455,0.504133,0.428472,0.033177
+Case-I Mean Profit (€/Day),xgb,0.456021,1.105112,0.629765,0.508978,0.192268
+Case-I Mean Profit (€/Day),tft,0.463016,1.122397,0.646731,0.486265,0.163527
+Case-I Mean Profit (€/Day),perfect foresight,0.53459,1.271203,0.699582,0.594539,0.268356
+Case-II Mean Profit (€/Day),cnp,0.443801,1.097414,0.625995,0.459444,0.096272
+Case-II Mean Profit (€/Day),dnn,0.421765,0.916901,0.502087,0.146687,0.0
+Case-II Mean Profit (€/Day),lear,0.444756,0.945943,0.58063,0.405023,0.138718
+Case-II Mean Profit (€/Day),blstm,0.392508,1.008844,0.408864,0.309707,-0.0
+Case-II Mean Profit (€/Day),xgb,0.440206,1.006234,0.574044,0.38759,0.155223
+Case-II Mean Profit (€/Day),tft,0.448386,1.049265,0.598091,0.400566,0.114493
+Case-II Mean Profit (€/Day),perfect foresight,0.53459,1.271203,0.699582,0.594539,0.268356
+Case-III Mean Profit (€/Day),cnp,0.443935,1.097433,0.626012,0.459457,0.096276
+Case-III Mean Profit (€/Day),dnn,0.421771,0.916914,0.5021,0.14669,0.0
+Case-III Mean Profit (€/Day),lear,0.444766,0.945954,0.580645,0.405032,0.138754
+Case-III Mean Profit (€/Day),blstm,0.392518,1.008863,0.408868,0.309729,-0.0
+Case-III Mean Profit (€/Day),xgb,0.440214,1.006248,0.574059,0.3876,0.155229
+Case-III Mean Profit (€/Day),tft,0.448477,1.04928,0.598106,0.400576,0.114496
+Case-III Mean Profit (€/Day),perfect foresight,0.534605,1.271223,0.699605,0.594563,0.268368
+Case-IV Mean Cost (€/Day),cnp,0.764484,1.943971,0.727061,0.780569,0.722266
+Case-IV Mean Cost (€/Day),dnn,0.7671,1.956209,0.750386,0.827714,0.775285
+Case-IV Mean Cost (€/Day),lear,0.759841,1.960364,0.741047,0.783531,0.700909
+Case-IV Mean Cost (€/Day),blstm,0.774739,1.961841,0.814491,0.823841,0.771786
+Case-IV Mean Cost (€/Day),xgb,0.757573,1.949772,0.738022,0.772584,0.694462
+Case-IV Mean Cost (€/Day),tft,0.75697,1.941595,0.730113,0.777515,0.711979
+Case-IV Mean Cost (€/Day),perfect foresight,0.730744,1.887611,0.702669,0.733688,0.665981
